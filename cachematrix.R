@@ -25,7 +25,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-## The function cacheSolve finds the inverse of the matrix and returns it. If the inverse is allready found (i.e. cached) than the cached
+## The function cacheSolve finds the inverse of the matrix and returns it. If the inverse is allready found (i.e. cached) then the cached
 ## inverse matrix is returned. The function prints the warning "getting cached data" if the cached value is returned.
 ## Example:     cacheSolve(x) #First time: returns the inverse of the matrix
 ##              cacheSolve(x) #Second time: prints the warning "getting cached data", and returns the inverse from cache
