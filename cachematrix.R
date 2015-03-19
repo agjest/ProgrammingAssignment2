@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## These two functions find the inverse of a matrix and cache the result. This may save some computing time
+## for very large matrixes.
 
 ## Write a short comment describing this function
 ## The function makeCacheMatrix returns a list. There are four elements in the list. The first is a function to set
